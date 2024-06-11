@@ -48,7 +48,7 @@ ForegroundService.java: Ensures the app runs continuously in the background.
 ActionProcessor.java: Maps transcribed text to actions and uses AI to make decisions.
 
 Building from Source:
-Clone the repository: git clone https://github.com/yourusername/jarvis.git
+Clone the repository: git clone [https://github.com/yourusername/jarvis.git](https://github.com/ivanhidag/J.A.R.V.I.S..git)
 Open the project in Android Studio.
 Build the project by selecting Build > Make Project.
 Install the APK on your device using Run > Run 'app'.
