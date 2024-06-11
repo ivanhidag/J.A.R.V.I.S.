@@ -30,6 +30,7 @@ Once installed, open the Jarvis app and follow the setup instructions.
 Usage:
 
 Basic Commands (Take into account that this isnt developed in multilingual aspects so it may only work in spanish).
+
 Send Message: "Send a message to [Contact Name] saying [Message]."
 
 Set Alarm: "Set an alarm for [Time]."
@@ -39,6 +40,7 @@ Open App: "Open [App Name]."
 Control Volume: "Set volume to [Percentage]."
 
 Advanced Features
+
 Spotify Integration: "Play [Song Name] on Spotify."
 
 Google Maps Navigation: "Navigate to [Destination] using Google Maps."
